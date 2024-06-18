@@ -6,7 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgin17&layout=compact&langs_count=7&theme=dark"/>
  <div>     
       
-- 🔭 Ainda não trabalho mais quero me desenvolver na area do Back end focado em segurança da informação...
 - 🌱 Quero aprender as principais linguagens e desenvolvimento web ...
 -->
    
