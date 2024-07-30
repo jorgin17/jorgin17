@@ -7,6 +7,8 @@
  <div>     
       
 - 🌱 *Aluno do 3°ano A da Escola Mitsusada Umetani* ...
+
+jorgehnteles@gmail.com
 -->
    
    ![Snake animation](https://github.com/jorgin17/jorgin17/blob/output/github-contribution-grid-snake.svg)
