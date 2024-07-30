@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgin17&layout=compact&langs_count=7&theme=dark"/>
  <div>     
       
-- 🌱 Quero aprender as principais linguagens e desenvolvimento web ...
+- 🌱 *Aluno do 3°ano A da Escola Mitsusada Umetani* ...
 -->
    
    ![Snake animation](https://github.com/jorgin17/jorgin17/blob/output/github-contribution-grid-snake.svg)
